@@ -1,0 +1,48 @@
+.btn
+{
+    -fx-background-color:  #c4b5aa;
+    -fx-text-fill: white;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+.btn:hover{
+    -fx-background-color: #7c7272;
+}
+.btn2
+{
+    -fx-background-color:   #8F7A66;
+    -fx-text-fill: white;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+.btn2:hover{
+    -fx-background-color: #887c68;
+}
+.cover
+{
+    -fx-background-color: rgba(195, 177, 166, 0.54);
+}
+.AIBtn{
+    -fx-background-color: rgba(136, 124, 104, 0.42);
+    -fx-text-fill: rgb(255, 255, 255);
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+.AIBtn:hover{
+
+    -fx-background-color: rgb(232, 230, 222);
+}
+.btn3
+{
+    -fx-background-color:  #c4b5aa;
+    -fx-text-fill: white;
+}
+.btn3:hover{
+    -fx-background-color: #7c7272;
+}
+.anc{
+    -fx-background-color: rgba(213, 201, 189, 0.95);
+}
+.ai{
+    -fx-text-fill: rgba(19, 3, 3, 0.48);
+}

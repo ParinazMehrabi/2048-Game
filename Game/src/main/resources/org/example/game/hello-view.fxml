@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.GridPane?>
+
+<BorderPane prefHeight="243.0" prefWidth="251.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.game.view.BoardController">
+    <center>
+        <GridPane fx:id="gameGrid" alignment="CENTER" hgap="5" style="-fx-background-color: #bbada0;" vgap="5">
+        </GridPane>
+    </center>
+    <bottom>
+        <Label style="-fx-font-size: 16px; -fx-text-fill: white;" text="Use Arrow Keys to Play" BorderPane.alignment="CENTER" />
+    </bottom>
+</BorderPane>
