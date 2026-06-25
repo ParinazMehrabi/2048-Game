@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/Java-11%2B-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/JavaFX-17-blue?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX">
 <img src="https://img.shields.io/badge/Build-Maven-green?style=for-the-badge&logo=apache-maven" alt="Maven">
-<img src="https://img.shields.io/badge/Architecture-MVC-red?style=for-the-badge" alt="Architecture">
 
 <p align="center">
     <strong>An Optimized, Grid-Based Logical Strategy Engine</strong><br>
